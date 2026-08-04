@@ -42,6 +42,6 @@
 | Churn Reason | Reason for churning (if applicable) |
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-## number of columns : 33
-## number of rows : 7043
+### number of columns : 33
+### number of rows : 7043
 
