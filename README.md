@@ -40,4 +40,8 @@
 | Churn Score | Predicted churn likelihood score |
 | CLTV | Customer Lifetime Value |
 | Churn Reason | Reason for churning (if applicable) |
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+## number of columns : 33
+## number of rows : 7043
 
