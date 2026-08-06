@@ -75,3 +75,12 @@
 ## 🛠️ Tools Used:-
 - **Microsoft Excel / Power Query:** Data cleaning, transformation, and initial exploratory analysis, Data modeling.
 - **Power BI Desktop:** and interactive dashboard creation/visualization.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 🖼️ Dashboard Screenshot:-
+![Telco Customer Churn Dashboard](dashboard.png)
+
+<p align="center">
+  <img src="dashboard.png" alt="Telco Churn Dashboard" width="100%">
+</p>
