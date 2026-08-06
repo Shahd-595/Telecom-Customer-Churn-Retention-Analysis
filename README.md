@@ -48,11 +48,11 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Business Problem:-
-Telco Customer Churn.
+- Telco Customer Churn.
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Goal:-
-Identifying the segments most likely to unsubscribe to help the marketing and service teams make customer retention decisions.
+- Identifying the segments most likely to unsubscribe to help the marketing and service teams make customer retention decisions.
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Key Insights:-
