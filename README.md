@@ -65,7 +65,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Quick Business Recommendations💡:-
+## 💡Quick Business Recommendations:-
 - Offering incentive discounts to new customers to convert them from month-to-month contracts to annual contracts.
 - Focusing on supporting and following up with new customers during the first six months to reduce the very high churn rate (52.9%).
 - Training and qualifying the technical support team to address customer service issues, while reviewing the pricing and quality of fiber optic services to compete with external offers.
