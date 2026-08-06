@@ -73,5 +73,5 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🛠️ Tools Used:-
-**Microsoft Excel / Power Query:** Data cleaning, transformation, and initial exploratory analysis, Data modeling.
-**Power BI Desktop:** and interactive dashboard creation/visualization.
+- **Microsoft Excel / Power Query:** Data cleaning, transformation, and initial exploratory analysis, Data modeling.
+- **Power BI Desktop:** and interactive dashboard creation/visualization.
