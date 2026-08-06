@@ -45,3 +45,27 @@
 ### number of columns : 33
 ### number of rows : 7043
 
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Business Problem:-
+Telco Customer Churn.
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Goal:-
+Identifying the segments most likely to unsubscribe to help the marketing and service teams make customer retention decisions.
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Key Insights:-
+- **Contract Type:** Customers on Month-to-month contracts experience the highest churn rate at 42.7%.
+- **Customer Tenure:** The first six months are the most critical, with churn peaking at 52.9%.
+- **Payment Method:** Electronic check users are the most likely to churn, reaching 45.3%.
+- **Internet Service:** Fiber optic subscribers report a notably high churn rate of 41.9%.
+- **Churn Reasons:** Technical support attitude is the primary churn driver (192 customers), followed by aggressive competitor offers.
+- **Monthly Charges:** Mid-to-high spenders ($60–$90) account for the largest proportion of churn (33.7%), closely followed by the $90+ segment (32.9%).
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Quick Business Recommendations:-
+- Offering incentive discounts to new customers to convert them from month-to-month contracts to annual contracts.
+- Focusing on supporting and following up with new customers during the first six months to reduce the very high churn rate (52.9%).
+- Training and qualifying the technical support team to address customer service issues, while reviewing the pricing and quality of fiber optic services to compete with external offers.
