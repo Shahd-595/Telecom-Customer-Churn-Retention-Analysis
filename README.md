@@ -3,7 +3,7 @@
 ### This project aims to analyze customer data from a telecommunications provider to identify the primary drivers behind Customer Churn—specifically evaluating whether customer departure is driven by service quality, pricing structures, lack of tailored promotional offers, or contract terms.​Through standard data preprocessing and exploratory data analysis (EDA), the project will uncover key patterns in customer behavior. The final outcome includes an Interactive Dashboard designed to visualize essential Key Performance Indicators (KPIs) and track retention metrics, alongside actionable strategic recommendations to reduce churn and enhance customer loyalty.
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 📁 Dataset Columns Description:-
+## 📁Dataset Columns Description:-
 
 | Column Name | Description |
 |-------------|-------------|
@@ -47,15 +47,15 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Business Problem:-
+## ⚙Business Problem:-
 - Telco Customer Churn.
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Goal:-
+## 🎯Goal:-
 - Identifying the segments most likely to unsubscribe to help the marketing and service teams make customer retention decisions.
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Key Insights:-
+## 🔑Key Insights:-
 - **Contract Type:** Customers on Month-to-month contracts experience the highest churn rate at 42.7%.
 - **Customer Tenure:** The first six months are the most critical, with churn peaking at 52.9%.
 - **Payment Method:** Electronic check users are the most likely to churn, reaching 45.3%.
@@ -65,7 +65,13 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Quick Business Recommendations:-
+## Quick Business Recommendations💡:-
 - Offering incentive discounts to new customers to convert them from month-to-month contracts to annual contracts.
 - Focusing on supporting and following up with new customers during the first six months to reduce the very high churn rate (52.9%).
 - Training and qualifying the technical support team to address customer service issues, while reviewing the pricing and quality of fiber optic services to compete with external offers.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+🛠️ Tools Used:-
+**Microsoft Excel / Power Query:** Data cleaning, transformation, and initial exploratory analysis, Data modeling.
+**Power BI Desktop:** and interactive dashboard creation/visualization.
