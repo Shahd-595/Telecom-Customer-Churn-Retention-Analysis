@@ -83,3 +83,10 @@
 <p align="center">
   <img src="dashboard.jpg" alt="Telco Churn Dashboard" width="100%">
 </p>
+
+
+## Solutions & Action Plan:-
+
+<p align="center">
+  <img src="solution.jpg" alt="Telco Churn Dashboard" width="100%">
+</p>
