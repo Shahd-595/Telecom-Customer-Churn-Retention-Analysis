@@ -87,7 +87,7 @@
 
 ## Pivot Tablel:-
 <p align="center">
-  <img src="Pivot Table.png" alt="Telco Churn Dashboard" width="100%">
+  <img src="Pivot Tablel.png" alt="Telco Churn Dashboard" width="100%">
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
