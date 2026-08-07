@@ -79,8 +79,8 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🖼️ Dashboard Screenshot:-
-![Telco Customer Churn Dashboard](dashboard.ipeg)
+![Telco Customer Churn Dashboard](dashboard.jpg)
 
 <p align="center">
-  <img src="dashboard.ipeg" alt="Telco Churn Dashboard" width="100%">
+  <img src="dashboard.jpg" alt="Telco Churn Dashboard" width="100%">
 </p>
