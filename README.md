@@ -78,16 +78,16 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Pivot Tablel:-
+## Data Modeling:-
 <p align="center">
-  <img src="Pivot Table.png" alt="Telco Churn Dashboard" width="100%">
+  <img src="Data Modeling.jpg" alt="Telco Churn Dashboard" width="100%">
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Data Modeling:-
+## Pivot Tablel:-
 <p align="center">
-  <img src="Data Modeling.jpg" alt="Telco Churn Dashboard" width="100%">
+  <img src="Pivot Table.png" alt="Telco Churn Dashboard" width="100%">
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
