@@ -79,7 +79,6 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🖼️ Dashboard Screenshot:-
-![Telco Customer Churn Dashboard](dashboard.jpg)
 
 <p align="center">
   <img src="dashboard.jpg" alt="Telco Churn Dashboard" width="100%">
